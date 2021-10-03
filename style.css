@@ -1,0 +1,12 @@
+body {
+  background-color: #ff7979;
+}
+.preview {
+ background-color: pink; 
+}
+.preview img {
+  max-width: 100%;
+}
+textarea, .preview {
+  min-height: 500px;
+}
